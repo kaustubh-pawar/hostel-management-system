@@ -1,0 +1,1 @@
+console.log("Hostel Management System Loaded");
